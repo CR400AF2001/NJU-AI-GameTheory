@@ -8,4 +8,4 @@
 
 
 
-作业要求见expt.pdf，实验报告见report.pdf.
+作业要求见expt.pdf，代码见main.py，实验报告见report.pdf.
